@@ -58,6 +58,8 @@
 		4B1395001ED19AED009BA552 /* WallPaper */ = {
 			isa = PBXGroup;
 			children = (
+				4B13951A1ED19EAC009BA552 /* Lib */,
+				4B1395191ED19E9C009BA552 /* PhotoPickerVC */,
 				4B1395041ED19AED009BA552 /* AppDelegate.h */,
 				4B1395051ED19AED009BA552 /* AppDelegate.m */,
 				4B1395071ED19AED009BA552 /* ViewController.h */,
@@ -77,6 +79,20 @@
 				4B1395021ED19AED009BA552 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4B1395191ED19E9C009BA552 /* PhotoPickerVC */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = PhotoPickerVC;
+			sourceTree = "<group>";
+		};
+		4B13951A1ED19EAC009BA552 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Lib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -316,6 +332,7 @@
 				4B1395171ED19AED009BA552 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
