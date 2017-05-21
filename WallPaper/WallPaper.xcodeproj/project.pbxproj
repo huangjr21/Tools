@@ -26,6 +26,8 @@
 		4B13950D1ED19AED009BA552 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B1395101ED19AED009BA552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B1395121ED19AED009BA552 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B80FEE81ED1A1180043D48A /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		4B80FEE91ED1A1270043D48A /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		4B1395191ED19E9C009BA552 /* PhotoPickerVC */ = {
 			isa = PBXGroup;
 			children = (
+				4B80FEE81ED1A1180043D48A /* Header.h */,
 			);
 			path = PhotoPickerVC;
 			sourceTree = "<group>";
@@ -91,6 +94,7 @@
 		4B13951A1ED19EAC009BA552 /* Lib */ = {
 			isa = PBXGroup;
 			children = (
+				4B80FEE91ED1A1270043D48A /* Header.h */,
 			);
 			path = Lib;
 			sourceTree = "<group>";
